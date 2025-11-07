@@ -17,5 +17,5 @@ app.use('/images', imagesRoutes);
 
 
 app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
+  console.log(`Server running on http://localhost:${port}`); // http://localhost:3000/images/steam?page=1 (Paginación MYSQL)
 });
