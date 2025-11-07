@@ -108,8 +108,8 @@ Relaciona usuarios con los juegos que han adquirido o jugado.
 
 Relaciones entre colecciones
 
-library.username = hace referencia al user.username
-library.idGame = corresponde al identificador del juego en la colección game
+-library.username = hace referencia al user.username
+-library.idGame = corresponde al identificador del juego en la colección game
 
 ----
 
